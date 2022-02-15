@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "placa": "OGD4T32",
+      "vagaOcupada": 1,
+      "id": 6
+    },
+    {
+      "placa": "VCS4R33",
+      "vagaOcupada": 3,
+      "id": 7
+    },
+    {
+      "placa": "NQM4R56",
+      "vagaOcupada": 9,
+      "id": 8
+    },
+    {
+      "id": 11,
+      "placa": "ANS4T54",
+      "vagaOcupada": 6
+    }
+  ]
+}
